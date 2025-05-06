@@ -7,7 +7,7 @@ docker run -it \
     --name=ros-humble-jetson \
     --env="DISPLAY=$DISPLAY" \
     --env="QT_X11_NO_MITSHM=1" \
-    --volume="/home/ethan/Documents/Github/jetson-lidar/:/home/ethan/Documents/Github/jetson-lidar/" \
+    --volume="/absolute/path/to/this/repo:/workspace" \
     --env="XAUTHORITY=$XAUTH" \
     --volume="$XAUTH:$XAUTH" \
     --net=host \
