@@ -4,3 +4,6 @@
 [submodule "Livox-SDK2"]
 	path = Livox-SDK2
 	url = https://github.com/Livox-SDK/Livox-SDK2.git
+[submodule "ws_livox/src/livox_ros_driver2"]
+	path = ws_livox/src/livox_ros_driver2
+	url = https://github.com/Livox-SDK/livox_ros_driver2
