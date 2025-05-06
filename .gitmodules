@@ -1,0 +1,6 @@
+[submodule "FAST_LIO"]
+	path = FAST_LIO
+	url = https://github.com/hku-mars/FAST_LIO.git
+[submodule "Livox-SDK2"]
+	path = Livox-SDK2
+	url = https://github.com/Livox-SDK/Livox-SDK2.git
