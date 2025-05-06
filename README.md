@@ -37,7 +37,7 @@ sudo ip route del 192.168.1.0/24 dev {network-adapter}
 sudo ip route add {livox-ip} dev {network-adapter}
 ```
 
-Replace `{network-adapter}` with the name of the network interface (e.g., `eth0`), and `{livox-ip}` with the IP address of the Livox sensor.
+Replace `{network-adapter}` with the name of the network interface (e.g., `enP67ps0`), and `{livox-ip}` with the IP address of the Livox sensor.
 
 ## Run Fast-LIO on Jetson
 
