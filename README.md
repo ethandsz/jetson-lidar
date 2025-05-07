@@ -1,6 +1,6 @@
 # Fast-LIO Jetson Deployment
 
-This repository enables deployment of Fast-LIO on a Jetson device with Livox integration. Follow the steps below to set up submodules, configure Docker (host-machine only), and run the system.
+Deployment of Fast-LIO on a Jetson device with Livox mid360. Set up submodules, configure Docker (host-machine only), and run the system.
 
 ## Submodules Installation
 
