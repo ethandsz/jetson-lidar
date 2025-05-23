@@ -7,3 +7,6 @@
 [submodule "ws_livox/src/livox_ros_driver2"]
 	path = ws_livox/src/livox_ros_driver2
 	url = https://github.com/Livox-SDK/livox_ros_driver2
+[submodule "FAST-LIO"]
+	path = FAST-LIO
+	url = https://github.com/hku-mars/FAST_LIO.git
